@@ -1,0 +1,16 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"obj_room","order":4,"path":"objects/obj_room/obj_room.yy",},
+    {"name":"spr_vegetal","order":2,"path":"sprites/spr_vegetal/spr_vegetal.yy",},
+    {"name":"spr_creature","order":4,"path":"sprites/spr_creature/spr_creature.yy",},
+    {"name":"spr_bordure","order":3,"path":"sprites/spr_bordure/spr_bordure.yy",},
+    {"name":"spr_water","order":1,"path":"sprites/spr_water/spr_water.yy",},
+    {"name":"obj_water","order":1,"path":"objects/obj_water/obj_water.yy",},
+    {"name":"obj_creation","order":5,"path":"objects/obj_creation/obj_creation.yy",},
+    {"name":"obj_bordure","order":2,"path":"objects/obj_bordure/obj_bordure.yy",},
+    {"name":"obj_creature_F","order":1,"path":"objects/obj_creature_F/obj_creature_F.yy",},
+    {"name":"obj_vegetal","order":2,"path":"objects/obj_vegetal/obj_vegetal.yy",},
+    {"name":"obj_creature_M","order":2,"path":"objects/obj_creature_M/obj_creature_M.yy",},
+  ],
+}
