@@ -1,0 +1,23 @@
+{
+  "name": "Amb_Forest_Day",
+  "compression": 0,
+  "type": 0,
+  "sampleRate": 44100,
+  "bitDepth": 1,
+  "bitRate": 128,
+  "volume": 1.0,
+  "preload": false,
+  "audioGroupId": {
+    "name": "audiogroup_default",
+    "path": "audiogroups/audiogroup_default",
+  },
+  "soundFile": "Amb_Forest_Day.wav",
+  "duration": 60.005,
+  "parent": {
+    "name": "Ambiant",
+    "path": "folders/Sounds/Ambiant.yy",
+  },
+  "resourceVersion": "1.0",
+  "tags": [],
+  "resourceType": "GMSound",
+}
